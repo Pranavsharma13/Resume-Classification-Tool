@@ -1,2 +1,2 @@
 # Resume-Classification-Tool
-Developed an automated resume classification system in Python
+Developed an automated resume classification system in Python, leveraging libraries such as pandas, NumPy, and NLP tools to streamline recruitment categorization processes. Performed thorough data cleansing and analysis, and meticulously tested machine learning algorithms (including SVM, Random Forest, and KNeighbors) to improve accuracy and efficiency in resume classification.
